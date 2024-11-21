@@ -1,24 +1,9 @@
-Hi there! 👋
+Hey!
+I’m Goutham N 😊. I’m a Computer Science student and I’ve been diving into full-stack web development 🌐. I love building things, whether it's the frontend or backend, and I’m constantly learning new skills to improve.
 
-I’m Goutham N, a Computer Science student and an aspiring Full-Stack Developer 🚀.
-I’m passionate about learning and building interactive web applications, continuously honing my skills to deepen my knowledge in the field.
+Right now, I’m getting into React, Node.js, and MongoDB – but I’m also messing around with UI/UX design to make sure my projects not only work but look great too 🎨. I’m all about solving problems and creating smooth, user-friendly experiences.
 
-🌟 About Me
-🌱 Currently learning Full-Stack Development with a focus on modern frameworks and technologies.
-💻 Exploring advanced concepts to build scalable, user-friendly web applications.
-📚 A tech enthusiast with a passion for coding, problem-solving, and exploring innovative solutions.
+When I’m not coding, you’ll probably find me reading up on the latest tech trends or just experimenting with ideas for my next project 📚🚀.
 
-⚡ Skills
-Languages: JavaScript, Python, etc.
-Frontend: HTML, CSS, React, next, Tailwind CSS.
-Backend: Node.js, Express.
-Databases: MongoDB, SQL.
+Feel free to reach out – I’m always open to chatting or collaborating! 👋
 
-🌱 What I’m Learning
-Advanced Web Development techniques.
-Backend services and deployment strategies.
-UI/UX Design principles to create user-friendly interfaces.
-
-📫 Let’s Connect!
-LinkedIn
-GitHub
